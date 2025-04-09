@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CT291\\CT291 (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|d:\\ct291\\ct291 (1)\\ct291\\funtion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\funtion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\qlkhachsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\qlkhachsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\qlkhachsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\qlkhachsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\qlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\qlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\qlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\qlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\ttcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\ttcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\ngay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\ngay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\letan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\letan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\qlkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\qlkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\qlkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\qlkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|D:\\CT291\\CT291 (1)\\ct291\\datdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9725C3-1227-499C-A36F-1FC60C8E6AD5}|CT291\\CT291.csproj|solutionrelative:ct291\\datdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 143,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\ThongKe.cs",
+              "RelativeDocumentMoniker": "CT291\\ThongKe.cs",
+              "ToolTip": "D:\\CT291\\CT291 (1)\\CT291\\ThongKe.cs [Design]",
+              "RelativeToolTip": "CT291\\ThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T07:47:20.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QLKhachSan.cs",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\QLKhachSan.cs",
+              "RelativeDocumentMoniker": "CT291\\QLKhachSan.cs",
+              "ToolTip": "D:\\CT291\\CT291 (1)\\CT291\\QLKhachSan.cs",
+              "RelativeToolTip": "CT291\\QLKhachSan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T07:43:23.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doimk.cs [Design]",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\Doimk.cs",
+              "RelativeDocumentMoniker": "CT291\\Doimk.cs",
+              "ToolTip": "D:\\CT291\\CT291 (1)\\CT291\\Doimk.cs [Design]",
+              "RelativeToolTip": "CT291\\Doimk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T07:43:23.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doimk.cs",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\Doimk.cs",
+              "RelativeDocumentMoniker": "CT291\\Doimk.cs",
+              "ToolTip": "D:\\CT291\\CT291 (1)\\CT291\\Doimk.cs",
+              "RelativeToolTip": "CT291\\Doimk.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA/wBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T07:43:23.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLKhachSan.cs [Design]",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\QLKhachSan.cs",
+              "RelativeDocumentMoniker": "CT291\\QLKhachSan.cs",
+              "ToolTip": "D:\\CT291\\CT291 (1)\\CT291\\QLKhachSan.cs [Design]",
+              "RelativeToolTip": "CT291\\QLKhachSan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T07:43:23.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Funtion.cs",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\Funtion.cs",
+              "RelativeDocumentMoniker": "CT291\\Funtion.cs",
+              "ToolTip": "D:\\CT291\\CT291 (1)\\CT291\\Funtion.cs",
+              "RelativeToolTip": "CT291\\Funtion.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAnwBAAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T07:43:23.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThongKe.cs",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\ThongKe.cs",
+              "RelativeDocumentMoniker": "CT291\\ThongKe.cs",
+              "ToolTip": "D:\\CT291\\CT291 (1)\\CT291\\ThongKe.cs",
+              "RelativeToolTip": "CT291\\ThongKe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T07:49:03.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\HoaDon.cs",
+              "RelativeDocumentMoniker": "CT291\\HoaDon.cs",
+              "ToolTip": "D:\\CT291\\CT291 (1)\\CT291\\HoaDon.cs",
+              "RelativeToolTip": "CT291\\HoaDon.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAApwFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T07:43:23.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatPhong.cs",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\DatPhong.cs",
+              "RelativeDocumentMoniker": "CT291\\DatPhong.cs",
+              "ToolTip": "D:\\CT291\\CT291 (1)\\CT291\\DatPhong.cs",
+              "RelativeToolTip": "CT291\\DatPhong.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAuwNUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T07:43:23.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QLPhong.cs [Design]",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\QLPhong.cs",
+              "RelativeDocumentMoniker": "CT291\\QLPhong.cs",
+              "ToolTip": "D:\\CT291\\CT291\\QLPhong.cs [Design]",
+              "RelativeToolTip": "..\\CT291\\QLPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-14T07:43:23.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QLPhong.cs",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\QLPhong.cs",
+              "RelativeDocumentMoniker": "CT291\\QLPhong.cs",
+              "ToolTip": "D:\\CT291\\CT291 (1)\\CT291\\QLPhong.cs",
+              "RelativeToolTip": "CT291\\QLPhong.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAWwJkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-14T07:43:23.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\HoaDon.cs",
+              "RelativeDocumentMoniker": "CT291\\HoaDon.cs",
+              "ToolTip": "D:\\CT291\\CT291 (1)\\CT291\\HoaDon.cs [Design]",
+              "RelativeToolTip": "CT291\\HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T07:43:23.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ngay.cs [Design]",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\Ngay.cs",
+              "RelativeDocumentMoniker": "CT291\\Ngay.cs",
+              "ToolTip": "D:\\CT291\\CT291\\Ngay.cs [Design]",
+              "RelativeToolTip": "..\\CT291\\Ngay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-14T07:43:23.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TTCN.cs [Design]",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\TTCN.cs",
+              "RelativeDocumentMoniker": "CT291\\TTCN.cs",
+              "ToolTip": "D:\\CT291\\CT291\\TTCN.cs [Design]",
+              "RelativeToolTip": "..\\CT291\\TTCN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-14T07:43:23.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DatPhong.cs [Design]",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\DatPhong.cs",
+              "RelativeDocumentMoniker": "CT291\\DatPhong.cs",
+              "ToolTip": "D:\\CT291\\CT291\\DatPhong.cs [Design]",
+              "RelativeToolTip": "..\\CT291\\DatPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-14T07:43:23.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QLKH.cs",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\QLKH.cs",
+              "RelativeDocumentMoniker": "CT291\\QLKH.cs",
+              "ToolTip": "D:\\CT291\\CT291 (1)\\CT291\\QLKH.cs",
+              "RelativeToolTip": "CT291\\QLKH.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAApwFoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-14T07:43:23.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DichVu.cs [Design]",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\DichVu.cs",
+              "RelativeDocumentMoniker": "CT291\\DichVu.cs",
+              "ToolTip": "D:\\CT291\\CT291\\DichVu.cs [Design]",
+              "RelativeToolTip": "..\\CT291\\DichVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-14T07:43:23.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LeTan.cs [Design]",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\LeTan.cs",
+              "RelativeDocumentMoniker": "CT291\\LeTan.cs",
+              "ToolTip": "D:\\CT291\\CT291\\LeTan.cs [Design]",
+              "RelativeToolTip": "..\\CT291\\LeTan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-14T07:43:23.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DichVu.cs",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\DichVu.cs",
+              "RelativeDocumentMoniker": "CT291\\DichVu.cs",
+              "ToolTip": "D:\\CT291\\CT291 (1)\\CT291\\DichVu.cs",
+              "RelativeToolTip": "CT291\\DichVu.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwBwAAAB+AQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-14T07:43:23.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dangnhap.cs [Design]",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\Dangnhap.cs",
+              "RelativeDocumentMoniker": "CT291\\Dangnhap.cs",
+              "ToolTip": "D:\\CT291\\CT291\\Dangnhap.cs [Design]",
+              "RelativeToolTip": "..\\CT291\\Dangnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-14T07:43:23.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QLKH.cs [Design]",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\QLKH.cs",
+              "RelativeDocumentMoniker": "CT291\\QLKH.cs",
+              "ToolTip": "D:\\CT291\\CT291\\QLKH.cs [Design]",
+              "RelativeToolTip": "..\\CT291\\QLKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-14T07:43:23.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DatDV.cs [Design]",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\DatDV.cs",
+              "RelativeDocumentMoniker": "CT291\\DatDV.cs",
+              "ToolTip": "C:\\Users\\quyen\\Documents\\Zalo Received Files\\CT291\\CT291\\DatDV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-14T07:43:23.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Dangnhap.cs",
+              "DocumentMoniker": "D:\\CT291\\CT291 (1)\\CT291\\Dangnhap.cs",
+              "RelativeDocumentMoniker": "CT291\\Dangnhap.cs",
+              "ToolTip": "D:\\CT291\\CT291 (1)\\CT291\\Dangnhap.cs",
+              "RelativeToolTip": "CT291\\Dangnhap.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-14T07:43:23.71Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+D:\Học CT\CT291\CT291\CT291\CT291\bin\Debug\CT291.exe.config
+D:\Học CT\CT291\CT291\CT291\CT291\bin\Debug\CT291.exe
+D:\Học CT\CT291\CT291\CT291\CT291\bin\Debug\CT291.pdb
+D:\Học CT\CT291\CT291\CT291\CT291\obj\Debug\CT291.csproj.AssemblyReference.cache
+D:\Học CT\CT291\CT291\CT291\CT291\obj\Debug\CT291.Properties.Resources.resources
+D:\Học CT\CT291\CT291\CT291\CT291\obj\Debug\CT291.csproj.GenerateResource.cache
+D:\Học CT\CT291\CT291\CT291\CT291\obj\Debug\CT291.csproj.CoreCompileInputs.cache
+D:\Học CT\CT291\CT291\CT291\CT291\obj\Debug\CT291.exe
+D:\Học CT\CT291\CT291\CT291\CT291\obj\Debug\CT291.pdb
+D:\Học CT\CT291\CT291\CT291\CT291\obj\Debug\CT291.Dangnhap.resources
+D:\Học CT\CT291\CT291\CT291\CT291\obj\Debug\CT291.Doimk.resources
+D:\Học CT\CT291\CT291\CT291\CT291\obj\Debug\CT291.QLKH.resources
+D:\Học CT\CT291\CT291\CT291\CT291\obj\Debug\CT291.DatPhong.resources
+D:\Học CT\CT291\CT291\CT291\CT291\obj\Debug\CT291.QLPhong.resources
+D:\Học CT\CT291\CT291\CT291\CT291\obj\Debug\CT291.TrangChu.resources
+D:\Học CT\CT291\CT291\CT291\CT291\obj\Debug\CT291.QLKhachSan.resources
+D:\Học CT\CT291\CT291\CT291\CT291\obj\Debug\CT291.Ngay.resources
+D:\Học CT\CT291\CT291\CT291\CT291\obj\Debug\CT291.TTCN.resources
+D:\Học CT\CT291\CT291\CT291\CT291\obj\Debug\CT291.DichVu.resources
+D:\Học CT\CT291\CT291\CT291\CT291\obj\Debug\CT291.DatDV.resources
+D:\CT291\CT291\CT291\CT291\bin\Debug\CT291.exe.config
+D:\CT291\CT291\CT291\CT291\bin\Debug\CT291.exe
+D:\CT291\CT291\CT291\CT291\bin\Debug\CT291.pdb
+D:\CT291\CT291\CT291\CT291\obj\Debug\CT291.csproj.AssemblyReference.cache
+D:\CT291\CT291\CT291\CT291\obj\Debug\CT291.Dangnhap.resources
+D:\CT291\CT291\CT291\CT291\obj\Debug\CT291.DatDV.resources
+D:\CT291\CT291\CT291\CT291\obj\Debug\CT291.DichVu.resources
+D:\CT291\CT291\CT291\CT291\obj\Debug\CT291.Doimk.resources
+D:\CT291\CT291\CT291\CT291\obj\Debug\CT291.Ngay.resources
+D:\CT291\CT291\CT291\CT291\obj\Debug\CT291.QLKH.resources
+D:\CT291\CT291\CT291\CT291\obj\Debug\CT291.DatPhong.resources
+D:\CT291\CT291\CT291\CT291\obj\Debug\CT291.QLPhong.resources
+D:\CT291\CT291\CT291\CT291\obj\Debug\CT291.QLKhachSan.resources
+D:\CT291\CT291\CT291\CT291\obj\Debug\CT291.Properties.Resources.resources
+D:\CT291\CT291\CT291\CT291\obj\Debug\CT291.TTCN.resources
+D:\CT291\CT291\CT291\CT291\obj\Debug\CT291.csproj.GenerateResource.cache
+D:\CT291\CT291\CT291\CT291\obj\Debug\CT291.csproj.CoreCompileInputs.cache
+D:\CT291\CT291\CT291\CT291\obj\Debug\CT291.exe
+D:\CT291\CT291\CT291\CT291\obj\Debug\CT291.pdb
+D:\CT291\CT291\CT291\CT291\obj\Debug\CT291.LeTan.resources
+D:\CT291\CT291\bin\Debug\CT291.exe.config
+D:\CT291\CT291\bin\Debug\CT291.exe
+D:\CT291\CT291\bin\Debug\CT291.pdb
+D:\CT291\CT291\obj\Debug\CT291.csproj.AssemblyReference.cache
+D:\CT291\CT291\obj\Debug\CT291.Dangnhap.resources
+D:\CT291\CT291\obj\Debug\CT291.DatDV.resources
+D:\CT291\CT291\obj\Debug\CT291.DichVu.resources
+D:\CT291\CT291\obj\Debug\CT291.Doimk.resources
+D:\CT291\CT291\obj\Debug\CT291.LeTan.resources
+D:\CT291\CT291\obj\Debug\CT291.Ngay.resources
+D:\CT291\CT291\obj\Debug\CT291.QLKH.resources
+D:\CT291\CT291\obj\Debug\CT291.DatPhong.resources
+D:\CT291\CT291\obj\Debug\CT291.QLPhong.resources
+D:\CT291\CT291\obj\Debug\CT291.QLKhachSan.resources
+D:\CT291\CT291\obj\Debug\CT291.Properties.Resources.resources
+D:\CT291\CT291\obj\Debug\CT291.TTCN.resources
+D:\CT291\CT291\obj\Debug\CT291.csproj.GenerateResource.cache
+D:\CT291\CT291\obj\Debug\CT291.csproj.CoreCompileInputs.cache
+D:\CT291\CT291\obj\Debug\CT291.exe
+D:\CT291\CT291\obj\Debug\CT291.pdb
+D:\CT291\CT291\obj\Debug\CT291.HoaDon.resources
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\bin\Debug\CT291.exe.config
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\bin\Debug\CT291.exe
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\bin\Debug\CT291.pdb
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\obj\Debug\CT291.csproj.AssemblyReference.cache
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\obj\Debug\CT291.Dangnhap.resources
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\obj\Debug\CT291.DatDV.resources
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\obj\Debug\CT291.DichVu.resources
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\obj\Debug\CT291.Doimk.resources
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\obj\Debug\CT291.HoaDon.resources
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\obj\Debug\CT291.LeTan.resources
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\obj\Debug\CT291.Ngay.resources
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\obj\Debug\CT291.QLKH.resources
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\obj\Debug\CT291.DatPhong.resources
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\obj\Debug\CT291.QLPhong.resources
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\obj\Debug\CT291.QLKhachSan.resources
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\obj\Debug\CT291.Properties.Resources.resources
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\obj\Debug\CT291.TTCN.resources
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\obj\Debug\CT291.csproj.GenerateResource.cache
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\obj\Debug\CT291.csproj.CoreCompileInputs.cache
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\obj\Debug\CT291.exe
+C:\Users\quyen\Documents\Zalo Received Files\CT291\CT291\obj\Debug\CT291.pdb
+D:\CT291\CT291 (1)\CT291\bin\Debug\CT291.exe.config
+D:\CT291\CT291 (1)\CT291\bin\Debug\CT291.exe
+D:\CT291\CT291 (1)\CT291\bin\Debug\CT291.pdb
+D:\CT291\CT291 (1)\CT291\obj\Debug\CT291.csproj.AssemblyReference.cache
+D:\CT291\CT291 (1)\CT291\obj\Debug\CT291.Dangnhap.resources
+D:\CT291\CT291 (1)\CT291\obj\Debug\CT291.DatDV.resources
+D:\CT291\CT291 (1)\CT291\obj\Debug\CT291.DichVu.resources
+D:\CT291\CT291 (1)\CT291\obj\Debug\CT291.Doimk.resources
+D:\CT291\CT291 (1)\CT291\obj\Debug\CT291.HoaDon.resources
+D:\CT291\CT291 (1)\CT291\obj\Debug\CT291.LeTan.resources
+D:\CT291\CT291 (1)\CT291\obj\Debug\CT291.Ngay.resources
+D:\CT291\CT291 (1)\CT291\obj\Debug\CT291.QLKH.resources
+D:\CT291\CT291 (1)\CT291\obj\Debug\CT291.DatPhong.resources
+D:\CT291\CT291 (1)\CT291\obj\Debug\CT291.QLPhong.resources
+D:\CT291\CT291 (1)\CT291\obj\Debug\CT291.QLKhachSan.resources
+D:\CT291\CT291 (1)\CT291\obj\Debug\CT291.Properties.Resources.resources
+D:\CT291\CT291 (1)\CT291\obj\Debug\CT291.ThongKe.resources
+D:\CT291\CT291 (1)\CT291\obj\Debug\CT291.TTCN.resources
+D:\CT291\CT291 (1)\CT291\obj\Debug\CT291.csproj.GenerateResource.cache
+D:\CT291\CT291 (1)\CT291\obj\Debug\CT291.csproj.CoreCompileInputs.cache
+D:\CT291\CT291 (1)\CT291\obj\Debug\CT291.exe
+D:\CT291\CT291 (1)\CT291\obj\Debug\CT291.pdb
+D:\CT291 (1)\CT291\bin\Debug\CT291.exe.config
+D:\CT291 (1)\CT291\bin\Debug\CT291.exe
+D:\CT291 (1)\CT291\bin\Debug\CT291.pdb
+D:\CT291 (1)\CT291\obj\Debug\CT291.csproj.AssemblyReference.cache
+D:\CT291 (1)\CT291\obj\Debug\CT291.Dangnhap.resources
+D:\CT291 (1)\CT291\obj\Debug\CT291.DatDV.resources
+D:\CT291 (1)\CT291\obj\Debug\CT291.DichVu.resources
+D:\CT291 (1)\CT291\obj\Debug\CT291.Doimk.resources
+D:\CT291 (1)\CT291\obj\Debug\CT291.HoaDon.resources
+D:\CT291 (1)\CT291\obj\Debug\CT291.LeTan.resources
+D:\CT291 (1)\CT291\obj\Debug\CT291.Ngay.resources
+D:\CT291 (1)\CT291\obj\Debug\CT291.QLKH.resources
+D:\CT291 (1)\CT291\obj\Debug\CT291.DatPhong.resources
+D:\CT291 (1)\CT291\obj\Debug\CT291.QLPhong.resources
+D:\CT291 (1)\CT291\obj\Debug\CT291.QLKhachSan.resources
+D:\CT291 (1)\CT291\obj\Debug\CT291.Properties.Resources.resources
+D:\CT291 (1)\CT291\obj\Debug\CT291.ThongKe.resources
+D:\CT291 (1)\CT291\obj\Debug\CT291.TTCN.resources
+D:\CT291 (1)\CT291\obj\Debug\CT291.csproj.GenerateResource.cache
+D:\CT291 (1)\CT291\obj\Debug\CT291.csproj.CoreCompileInputs.cache
+D:\CT291 (1)\CT291\obj\Debug\CT291.exe
+D:\CT291 (1)\CT291\obj\Debug\CT291.pdb
