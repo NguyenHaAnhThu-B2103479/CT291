@@ -31,10 +31,10 @@
 4. Build và chạy ứng dụng
 
 ## 👩‍💻 Tác giả
-Nguyễn Hà Anh Thư
-MSSV: B2103479
-Trường: Đại học Cần Thơ
-📫 Email: [anhthumobile1998@gmail.com]
+- Nguyễn Hà Anh Thư
+- MSSV: B2103479
+- Trường: Đại học Cần Thơ
+- 📫 Email: [anhthumobile1998@gmail.com]
 
 ## 📚 Ghi chú
 - Dự án được thực hiện trong khuôn khổ môn học CT291 - Lập trình ứng dụng
