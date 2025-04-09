@@ -21,24 +21,20 @@
 - Visual Studio 2022 trở lên
 - Git
 
-
 ## 🚀 Hướng dẫn sử dụng
 
 1. Tải project về:
    ```bash
    git clone https://github.com/NguyenHaAnhThu-B2103479/CT291.git
-Mở file .sln bằng Visual Studio
-
-Cập nhật chuỗi kết nối SQL Server trong file App.config hoặc trong mã nguồn
-
-Build và chạy ứng dụng
+2. Mở file .sln bằng Visual Studio
+3. Cập nhật chuỗi kết nối SQL Server trong file App.config hoặc trong mã nguồn
+4. Build và chạy ứng dụng
 
 ## 👩‍💻 Tác giả
-# Nguyễn Hà Anh Thư
-# MSSV: B2103479
-# Trường: Đại học Cần Thơ
-
-## 📫 Email: [anhthumobile1998@gmail.com]
+Nguyễn Hà Anh Thư
+MSSV: B2103479
+Trường: Đại học Cần Thơ
+📫 Email: [anhthumobile1998@gmail.com]
 
 ## 📚 Ghi chú
 - Dự án được thực hiện trong khuôn khổ môn học CT291 - Lập trình ứng dụng
